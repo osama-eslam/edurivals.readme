@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./screenshot/bg.png" width="" alt="EduRivals Showcase" style="border-radius: 20px; border: 2px solid #eee;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="120" 
+  style="border-radius: 25px; border: 2px solid #eee; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
@@ -51,10 +52,12 @@
 ---
 
 ## 👤 Developer | المطور
-**Osama Islam (ElDeep)**
-<br>
-*Principal Mobile Engineer | Flutter Specialist*
-<br>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+</p>
+
+**Osama Islam (ElDeep)**  
+*Principal Mobile Engineer | Flutter Specialist*  
 *"I don't just write code; I build digital legacies."*
 
 <p align="left">
@@ -67,6 +70,20 @@
 </p>
 
 ---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="80%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="100" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+</p>
+
+---
+
 <p align="center">
   <sub>© 2026 Osama ElDeep Solutions. Secure. Scalable. Superior.</sub>
 </p>
