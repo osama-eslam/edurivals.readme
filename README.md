@@ -1,122 +1,72 @@
 <p align="center">
-  <img src="./screenshot/app-icon.png" width="120" 
-  style="
-  border-radius: 30px;
-  border: 2px solid rgba(255,255,255,0.1);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.4), 0 0 20px rgba(0, 200, 255, 0.2);
-  ">
+  <img src="./screenshot/bg.png" width="" alt="EduRivals Showcase" style="border-radius: 20px; border: 2px solid #eee;">
 </p>
 
-<h1 align="center">🏆 EDURIVALS</h1>
+<h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
 
 <p align="center">
-  <b>🚀 Gamifying Education • Connecting Students • Building Champions</b>
-</p>
-
-<p align="center">
-  <i>A next-gen competitive learning platform engineered for performance, scale, and impact.</i>
+  <b>"The ultimate bridge between students and academic excellence. Fast, Competitive, and National-focused."</b>
 </p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.edurivals.app123">
-    <img src="https://img.shields.io/badge/📱 Download-Google%20Play-brightgreen?style=for-the-badge&logo=google-play">
+    <img src="https://img.shields.io/badge/Status-Live%20on%20Google%20Play-brightgreen?style=for-the-badge&logo=google-play" alt="Status">
   </a>
-  <img src="https://img.shields.io/badge/⚙️ Platform-Android-blue?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/💙 Built%20With-Flutter-02569B?style=for-the-badge&logo=flutter">
-  <img src="https://img.shields.io/badge/🔒 License-Proprietary-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android" alt="Platform">
+  <img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/Security-Private_Proprietary-red?style=for-the-badge" alt="Secure">
 </p>
 
 ---
 
-## 🎬 Live Preview
+## 📖 Overview | لمحة عن التطبيق
+**EduRivals** is a high-performance edutainment platform engineered for scalability. It empowers Egyptian high school students to gamify their learning experience while providing a real-time, one-click solution for nationwide academic competition.
 
-<p align="center">
-  <img src="./screenshot/demo.gif" width="300" 
-  style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-</p>
-
-<p align="center">
-  <b>⚡ Real-time Gameplay • 🏆 Rankings • 📊 Progress Tracking</b>
-</p>
+> [!IMPORTANT]
+> **🛡️ Confidentiality & Intellectual Property:**
+> The source code for this project is **Private & Proprietary**. This repository serves as a professional showcase for UI/UX excellence, technical architecture, and system capabilities.
 
 ---
 
-## 🧠 Overview
-
-**EduRivals** is not just an app — it's a **competitive learning ecosystem**.
-
-It empowers students to:
-- 🎯 Compete in real-time academic battles  
-- 🏆 Climb national leaderboards  
-- ⚡ Learn faster through gamification  
-- 🌍 Connect across Egypt  
-
-> 💡 Built with scalability, performance, and real-world engagement in mind.
-
----
-
-## ⚡ Key Highlights
-
-- 🔥 Real-time competition engine  
-- 📊 Smart analytics system  
-- 🧩 Scalable architecture  
-- 🎮 Gamified UX experience  
-- 🇪🇬 Nationwide ranking system  
-
----
-
-## 📸 UI Showcase
-
+## 📸 App Showcase (UI/UX)
 <p align="center">
-  <img src="./screenshot/1.png" width="250" style="border-radius: 15px; margin: 10px;">
-  <img src="./screenshot/2.png" width="250" style="border-radius: 15px; margin: 10px;">
-  <img src="./screenshot/3.png" width="250" style="border-radius: 15px; margin: 10px;">
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/1.png" width="260" style="border-radius: 15px;">
+        <br><b>Arena Interface</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/4.png" width="260" style="border-radius: 15px;">
+        <br><b>Subject Progress</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/3.png" width="260" style="border-radius: 15px;">
+        <br><b>National Ranking</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## 🛡️ Intellectual Property
+## 👤 Developer | المطور
+**Osama Islam (ElDeep)**
+<br>
+*Principal Mobile Engineer | Flutter Specialist*
+<br>
+*"I don't just write code; I build digital legacies."*
 
-> ⚠️ This repository is a **showcase only**  
-> Source code is **Private & Proprietary**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&show_icons=true&theme=tokyonight&border_radius=15&cache_seconds=1800">
-  <img width="48%" src="https://streak-stats.demolab.com?user=osama-eslam&theme=tokyonight&border_radius=15">
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=tokyonight&no-frame=true&row=1&margin-w=10&no-bg=true">
-</p>
-
----
-
-## 👨‍💻 Developer
-
-**Osama Islam (ElDeep)**  
-*Principal Mobile Engineer • Flutter Specialist*
-
-> *"I don’t just build apps — I engineer digital dominance."* ⚡
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Official_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://osamaeldeepdev.netlify.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge&logo=netlify">
+    <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
   </a>
 </p>
 
 ---
-
 <p align="center">
-  <sub>© 2026 ElDeep Solutions — Built Different ⚡</sub>
+  <sub>© 2026 Osama ElDeep Solutions. Secure. Scalable. Superior.</sub>
 </p>
