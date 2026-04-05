@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="./screenshot/bg.png" width="120" 
-  style="border-radius: 25px; border: 2px solid #eaeaea; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+  <img src="./screenshot/app-icon.png" width="120" 
+  style="
+  border-radius: 30px;
+  border: 2px solid rgba(255,255,255,0.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4), 0 0 20px rgba(0, 200, 255, 0.2);
+  ">
 </p>
 
 <h1 align="center">🏆 EDURIVALS</h1>
@@ -27,7 +31,8 @@
 ## 🎬 Live Preview
 
 <p align="center">
-  <img src="./screenshot/demo.gif" width="300" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+  <img src="./screenshot/demo.gif" width="300" 
+  style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center">
@@ -64,7 +69,7 @@ It empowers students to:
 
 <p align="center">
   <img src="./screenshot/1.png" width="250" style="border-radius: 15px; margin: 10px;">
-  <img src="./screenshot/4.png" width="250" style="border-radius: 15px; margin: 10px;">
+  <img src="./screenshot/2.png" width="250" style="border-radius: 15px; margin: 10px;">
   <img src="./screenshot/3.png" width="250" style="border-radius: 15px; margin: 10px;">
 </p>
 
@@ -80,9 +85,8 @@ It empowers students to:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama-eslam&show_icons=true&theme=tokyonight&border_radius=10">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-eslam&theme=tokyonight&border_radius=10">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&show_icons=true&theme=tokyonight&border_radius=15&cache_seconds=1800">
+  <img width="48%" src="https://streak-stats.demolab.com?user=osama-eslam&theme=tokyonight&border_radius=15">
 </p>
 
 ---
@@ -90,7 +94,7 @@ It empowers students to:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=tokyonight&no-frame=true&row=1&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=tokyonight&no-frame=true&row=1&margin-w=10&no-bg=true">
 </p>
 
 ---
