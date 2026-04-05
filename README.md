@@ -1,7 +1,5 @@
 <p align="center">
-  <!-- GIF الدرع فوق ليعطي vibe احترافي -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="120" 
-  style="border-radius: 25px; border: 2px solid #eee; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="100" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,255,0,0.2);">
 </p>
 
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
@@ -35,15 +33,15 @@
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="./screenshot/1.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+        <img src="./screenshot/1.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
         <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/4.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+        <img src="./screenshot/2.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
         <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/3.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+        <img src="./screenshot/3.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
         <br><b>National Ranking</b>
       </td>
     </tr>
@@ -54,23 +52,24 @@
 
 ## ⚡ Key Highlights / Analytics
 <p align="center">
-  <!-- GIF المقياس / سحباه -->
-  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="60%" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.15);">
-  <br>
-  <b>⏱️ Real-time Stats • 📊 Performance • 👥 Active Users</b>
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="450">
 </p>
 
 ---
 
 ## 👤 Developer | المطور
-<p align="center">
-  <!-- GIF المبرمج صغير وأنيق -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="120" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); float: left; margin-right: 15px;">
-</p>
-
-**Osama Islam (ElDeep)**  
-*Principal Mobile Engineer | Flutter Specialist*  
-*"I don't just write code; I build digital legacies."*
+<table style="border: none; background: transparent;">
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      **Osama Islam (ElDeep)**<br>
+      *Principal Mobile Engineer | Flutter Specialist*<br>
+      *"I don't just write code; I build digital legacies."*
+    </td>
+    <td style="border: none; vertical-align: middle;" align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100" style="border-radius: 15px;">
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
