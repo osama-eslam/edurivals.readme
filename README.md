@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="./screenshot/bg.png" width="110" 
-  style="
-    border-radius: 30px;
-    padding: 10px;
-    background: linear-gradient(135deg, #1e1e2f, #2a2a40);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.25);
-  ">
+  <img src="./screenshot/bg.png" width="120" 
+  style="border-radius: 25px; border: 2px solid #eaeaea; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
 </p>
 
 <h1 align="center">🏆 EDURIVALS</h1>
@@ -15,7 +10,7 @@
 </p>
 
 <p align="center">
-  <i>A next-generation competitive learning platform engineered for performance, scalability, and real impact.</i>
+  <i>A next-gen competitive learning platform engineered for performance, scale, and impact.</i>
 </p>
 
 <p align="center">
@@ -32,8 +27,7 @@
 ## 🎬 Live Preview
 
 <p align="center">
-  <img src="./screenshot/demo.gif" width="300" 
-  style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+  <img src="./screenshot/demo.gif" width="300" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center">
@@ -47,7 +41,7 @@
 **EduRivals** is not just an app — it's a **competitive learning ecosystem**.
 
 It empowers students to:
-- 🎯 Compete in real-time academic challenges  
+- 🎯 Compete in real-time academic battles  
 - 🏆 Climb national leaderboards  
 - ⚡ Learn faster through gamification  
 - 🌍 Connect across Egypt  
@@ -61,7 +55,7 @@ It empowers students to:
 - 🔥 Real-time competition engine  
 - 📊 Smart analytics system  
 - 🧩 Scalable architecture  
-- 🎮 Gamified user experience  
+- 🎮 Gamified UX experience  
 - 🇪🇬 Nationwide ranking system  
 
 ---
@@ -83,12 +77,30 @@ It empowers students to:
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osama-eslam&show_icons=true&theme=tokyonight&border_radius=10">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-eslam&theme=tokyonight&border_radius=10">
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=tokyonight&no-frame=true&row=1&margin-w=10">
+</p>
+
+---
+
 ## 👨‍💻 Developer
 
 **Osama Islam (ElDeep)**  
 *Principal Mobile Engineer • Flutter Specialist*
 
-> *"I don’t just build apps — I engineer experiences."* ⚡
+> *"I don’t just build apps — I engineer digital dominance."* ⚡
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
@@ -102,5 +114,5 @@ It empowers students to:
 ---
 
 <p align="center">
-  <sub>© 2026 ElDeep Solutions — Clean. Scalable. Powerful. ⚡</sub>
+  <sub>© 2026 ElDeep Solutions — Built Different ⚡</sub>
 </p>
