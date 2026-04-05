@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- GIF الدرع فوق ليعطي vibe احترافي -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="120" 
   style="border-radius: 25px; border: 2px solid #eee; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
 </p>
@@ -34,15 +35,15 @@
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="./screenshot/1.png" width="260" style="border-radius: 15px;">
+        <img src="./screenshot/1.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
         <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/4.png" width="260" style="border-radius: 15px;">
+        <img src="./screenshot/4.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
         <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/3.png" width="260" style="border-radius: 15px;">
+        <img src="./screenshot/3.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
         <br><b>National Ranking</b>
       </td>
     </tr>
@@ -51,8 +52,18 @@
 
 ---
 
+## ⚡ Key Highlights / Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="80%">
+  <br>
+  <b>⏱️ Real-time Stats • 📊 Performance • 👥 Active Users</b>
+</p>
+
+---
+
 ## 👤 Developer | المطور
 <p align="center">
+  <!-- GIF المبرمج يعطي vibe حي -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
 </p>
 
@@ -67,19 +78,6 @@
   <a href="https://osamaeldeepdev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="80%">
-</p>
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzY2RvMG1mdXZlcWZpZXpvOG95ZzVtandyeG8wa2tsOHc5cGs0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfgWjPIMy2oANtr59q/giphy.gif" width="100" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
 </p>
 
 ---
