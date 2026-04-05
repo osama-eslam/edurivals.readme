@@ -5,7 +5,7 @@
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
 
 <p align="center">
-  <b>"The ultimate gamified arena for Egyptian High School students. Compete, Rank, and Master the curriculum with speed and precision."</b>
+  <b>"The ultimate bridge between students and academic excellence. Fast, Competitive, and National-focused."</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 ## 📖 Overview | لمحة عن التطبيق
-**EduRivals** is a high-performance edutainment platform engineered for scalability. It transforms traditional revision into a competitive ecosystem, helping students master their curriculum through 10-level progressive challenges and real-time national rankings.
+**EduRivals** is a high-performance edutainment platform engineered for scalability. It empowers Egyptian high school students to gamify their learning experience while providing a real-time, one-click solution for nationwide academic competition.
 
 > [!IMPORTANT]
 > **🛡️ Confidentiality & Intellectual Property:**
@@ -33,20 +33,16 @@
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="./screenshot/1.png" width="220" style="border-radius: 15px;">
-        <br><b>Challenge Arena</b>
+        <img src="./screenshot/1.png" width="260" style="border-radius: 15px;">
+        <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/2.png" width="220" style="border-radius: 15px;">
-        <br><b>Subject Levels</b>
+        <img src="./screenshot/2.png" width="260" style="border-radius: 15px;">
+        <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/3.png" width="220" style="border-radius: 15px;">
-        <br><b>Live Competition</b>
-      </td>
-      <td align="center" style="border: none;">
-        <img src="./screenshot/4.png" width="220" style="border-radius: 15px;">
-        <br><b>National Leaderboard</b>
+        <img src="./screenshot/3.png" width="260" style="border-radius: 15px;">
+        <br><b>National Ranking</b>
       </td>
     </tr>
   </table>
