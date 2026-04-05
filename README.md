@@ -75,14 +75,16 @@
 </p>
 
 ---
+---
 
 ## 👤 Developer Profile
-<table align="center" style="border: none; background: transparent; width: 100%;">
-  <tr>
-    <td align="left" style="border: none; vertical-align: middle; width: 70%;">
-      <h2 style="margin: 0;">Osama Islam (ElDeep)</h2>
-      <p style="font-size: 1.2em; color: #58a6ff; margin: 5px 0;"><b>Principal Mobile Engineer | Flutter Specialist</b></p>
-      <p style="font-size: 1.1em; font-style: italic; color: #8b949e;">
+
+<table align="center" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
+  <tr style="border: none;">
+    <td align="left" style="border: none; vertical-align: middle; width: 70%; padding: 0;">
+      <h2 style="margin: 0; border: none;">Osama Islam (ElDeep)</h2>
+      <p style="font-size: 1.2em; color: #58a6ff; margin: 10px 0;"><b>Principal Mobile Engineer | Flutter Specialist</b></p>
+      <p style="font-size: 1.1em; font-style: italic; color: #8b949e; line-height: 1.5;">
         "I don't just write code; I build digital legacies. Expert in architecting scalable mobile solutions and high-performance cross-platform ecosystems."
       </p>
       <br>
@@ -93,11 +95,13 @@
         <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
       </a>
     </td>
-    <td align="right" style="border: none; vertical-align: middle; width: 30%;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="160" style="border-radius: 20px; border: 3px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+    <td align="right" style="border: none; vertical-align: middle; width: 30%; padding: 0;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); display: block; margin-left: auto;">
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
