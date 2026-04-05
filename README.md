@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screenshot/bg.png" width="80" alt="EduRivals Logo" style="border-radius: 18%;">
+  <img src="./screenshot/4.png" width="220" alt="EduRivals Showcase" style="border-radius: 20px; border: 2px solid #eee;">
 </p>
 
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
@@ -52,7 +52,10 @@
 
 ## 👤 Developer | المطور
 **Osama Islam (ElDeep)**
-*Principal Mobile Application Developer*
+<br>
+*Principal Mobile Engineer | Flutter Specialist*
+<br>
+*"I don't just write code; I build digital legacies."*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
