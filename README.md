@@ -2,10 +2,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,255,0,0.2);">
 </p>
 
-<h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
+<h1 align="center">🏆 EDURIVALS | Ultimate Mastery</h1>
 
 <p align="center">
-  <b>"The ultimate bridge between students and academic excellence. Fast, Competitive, and National-focused."</b>
+  <b>"The ultimate bridge between students and academic excellence. Fast, Competitive, and Scalable."</b>
 </p>
 
 <p align="center">
@@ -19,26 +19,26 @@
 
 ---
 
-## 📖 Overview | لمحة عن التطبيق
-**EduRivals** is a high-performance edutainment platform engineered for scalability. It empowers Egyptian high school students to gamify their learning experience while providing a real-time, one-click solution for nationwide academic competition.
+## 📖 Overview
+**EduRivals** is a high-performance edutainment platform engineered for scalability. It transforms the traditional learning experience into an addictive competitive arena, allowing students to master the curriculum through 10-level progressive challenges and real-time national rankings.
 
 > [!IMPORTANT]
 > **🛡️ Confidentiality & Intellectual Property:**
-> The source code for this project is **Private & Proprietary**. This repository serves as a professional showcase for UI/UX excellence, technical architecture, and system capabilities.
+> The source code for this project is **Private & Proprietary**. This repository serves as a professional showcase for UI/UX excellence and technical system capabilities.
 
 ---
 
-## 🚀 Key Features | المميزات الإحترافية
+## 🚀 Key Engineering Highlights
 
-* **🎮 Gamified Learning Ecosystem:** Transforming boring study sessions into an addictive competitive arena with levels and rewards.
-* **⚡ Real-Time Battle Engine:** High-speed data synchronization for instant competition results and national rankings.
-* **📊 Advanced Analytics:** Comprehensive student performance tracking to identify strengths and weaknesses per subject.
-* **🛡️ Secure Infrastructure:** Robust backend architecture ensuring data integrity and preventing unauthorized exam access.
-* **📱 Elite UI/UX:** A premium dark-themed interface designed for maximum focus and minimal eye strain during long study hours.
+* **🎮 Gamified Ecosystem:** Converting study sessions into a high-engagement arena with progression-based rewards.
+* **⚡ Real-Time Sync Engine:** Optimized data streaming for instant leaderboard updates and competitive matching.
+* **📊 Granular Analytics:** Detailed performance tracking to pinpoint academic strengths and technical growth areas.
+* **🛡️ Hardened Security:** Robust backend architecture designed to ensure data integrity and prevent unauthorized access.
+* **📱 Premium UI/UX:** Dark-mode optimized interface engineered for prolonged focus and reduced eye strain.
 
 ---
 
-## 📸 App Showcase (UI/UX)
+## 📸 App Showcase
 <p align="center">
   <table align="center" style="border: none; background: transparent;">
     <tr>
@@ -60,12 +60,12 @@
 
 ---
 
-## 🛠️ Technical Stack | البناء التقني
+## 🛠️ Technical Stack
 
-* **Framework:** Flutter (Dart) - Utilizing Clean Architecture for maintainability.
-* **State Management:** BLoC / Provider (Optimized for real-time streams).
-* **Backend:** Firebase Ecosystem (Cloud Firestore, Auth, Storage).
-* **Performance:** 60 FPS fluid animations and optimized API calls.
+* **Framework:** Flutter (Dart) - Implementing Clean Architecture.
+* **State Management:** BLoC / Provider (Stream-optimized).
+* **Backend:** Firebase Infrastructure (Firestore, Auth, Storage).
+* **Performance:** 60 FPS fluid rendering with optimized network layers.
 
 ---
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 👤 Developer | المطور
+## 👤 Developer
 <table style="border: none; background: transparent;">
   <tr>
     <td style="border: none; vertical-align: middle;">
