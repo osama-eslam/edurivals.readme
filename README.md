@@ -47,7 +47,7 @@
         <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/4.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
+        <img src="./screenshot/2.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
         <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
@@ -76,28 +76,28 @@
 
 ---
 
-## 👤 Developer
-<table style="border: none; background: transparent;">
+## 👤 Developer Profile
+<table align="center" style="border: none; background: transparent; width: 100%;">
   <tr>
-    <td style="border: none; vertical-align: middle;">
-      **Osama Islam (ElDeep)**<br>
-      *Principal Mobile Engineer | Flutter Specialist*<br>
-      *"I don't just write code; I build digital legacies."*
+    <td align="left" style="border: none; vertical-align: middle; width: 70%;">
+      <h2 style="margin: 0;">Osama Islam (ElDeep)</h2>
+      <p style="font-size: 1.2em; color: #58a6ff; margin: 5px 0;"><b>Principal Mobile Engineer | Flutter Specialist</b></p>
+      <p style="font-size: 1.1em; font-style: italic; color: #8b949e;">
+        "I don't just write code; I build digital legacies. Expert in architecting scalable mobile solutions and high-performance cross-platform ecosystems."
+      </p>
+      <br>
+      <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
+        <img src="https://img.shields.io/badge/LinkedIn-Official_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://osamaeldeepdev.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
+      </a>
     </td>
-    <td style="border: none; vertical-align: middle;" align="right">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100" style="border-radius: 15px;">
+    <td align="right" style="border: none; vertical-align: middle; width: 30%;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="160" style="border-radius: 20px; border: 3px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
     </td>
   </tr>
 </table>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
-    <img src="https://img.shields.io/badge/LinkedIn-Official_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://osamaeldeepdev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
-  </a>
-</p>
 
 ---
 
