@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screenshot/bg.png" width="100%" alt="EduRivals Banner">
+  <img src="./screenshot/bg.png" width="80" alt="EduRivals Logo" style="border-radius: 18%;">
 </p>
 
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
