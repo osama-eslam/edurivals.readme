@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="screenshot/bg.png" width="100%" alt="EduRivals Banner">
+  <a href="https://play.google.com/store/apps/details?id=com.edurivals.app123">
+    <img src="screenshot/bg.png" width="70%" alt="EduRivals - Challenge Accepted">
+  </a>
 </p>
 
 <h1 align="center">🏆 EDURIVALS | The Ultimate Thanaweya Challenge</h1>
@@ -46,19 +48,19 @@
     <tr>
       <td align="center" style="border: none;">
         <img src="screenshot/1.png" width="220" style="border-radius: 15px;">
-        <br><b>Home / Arena</b>
+        <br><b>Master the Curriculum</b>
       </td>
       <td align="center" style="border: none;">
         <img src="screenshot/2.png" width="220" style="border-radius: 15px;">
-        <br><b>Level Selection</b>
+        <br><b>Analyze Your Progress</b>
       </td>
       <td align="center" style="border: none;">
         <img src="screenshot/3.png" width="220" style="border-radius: 15px;">
-        <br><b>Challenge Mode</b>
+        <br><b>Challenge Yourself</b>
       </td>
       <td align="center" style="border: none;">
         <img src="screenshot/4.png" width="220" style="border-radius: 15px;">
-        <br><b>Leaderboard</b>
+        <br><b>Climb the Leaderboard</b>
       </td>
     </tr>
   </table>
