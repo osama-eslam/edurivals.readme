@@ -24,8 +24,7 @@
 **EduRivals** transforms conventional education into a **high-performance gamified ecosystem**. Students engage in progressive 10-level challenges with real-time **national leaderboards**, driving mastery and motivation.
 
 > [!INFO]
-> **🛡️ Confidential & Proprietary:**  
-> Source code is **private**. This repository highlights **UI/UX design excellence** and **technical engineering capabilities**.
+> **🛡️ Confidential & Proprietary:** > Source code is **private**. This repository highlights **UI/UX design excellence** and **technical engineering capabilities**.
 
 ---
 
@@ -77,14 +76,14 @@
 
 ---
 
-## 👤 Developer Profile
+## 👤 Developer Information
 
 <table align="center" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
   <tr style="border: none;">
     <td align="left" style="border: none; vertical-align: middle; width: 70%; padding: 0;">
-      <h2 style="margin: 0; border: none;">Osama Islam (ElDeep)</h2>
-      <p style="font-size: 1.2em; color: #58a6ff; margin: 10px 0;"><b>Principal Mobile Engineer | Flutter Expert</b></p>
-      <p style="font-size: 1.1em; font-style: italic; color: #8b949e; line-height: 1.5;">
+      <h2 style="margin: 0; border: none; color: #ffffff;">Osama Islam (ElDeep)</h2>
+      <p style="font-size: 1.25em; color: #58a6ff; margin: 10px 0;"><b>Principal Mobile Engineer | Flutter Expert</b></p>
+      <p style="font-size: 1.15em; font-style: italic; color: #8b949e; line-height: 1.6;">
         "I build digital legacies — architecting **scalable mobile solutions** and **high-performance cross-platform ecosystems**."
       </p>
       <br>
@@ -96,7 +95,7 @@
       </a>
     </td>
     <td align="right" style="border: none; vertical-align: middle; width: 30%; padding: 0;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 20px; box-shadow: 0 12px 35px rgba(0,0,0,0.5); display: block; margin-left: auto;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="190" style="border-radius: 15px; box-shadow: 0 12px 40px rgba(0,0,0,0.6); display: block; margin-left: auto;">
     </td>
   </tr>
 </table>
