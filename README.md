@@ -28,6 +28,16 @@
 
 ---
 
+## 🚀 Key Features | المميزات الإحترافية
+
+* **🎮 Gamified Learning Ecosystem:** Transforming boring study sessions into an addictive competitive arena with levels and rewards.
+* **⚡ Real-Time Battle Engine:** High-speed data synchronization for instant competition results and national rankings.
+* **📊 Advanced Analytics:** Comprehensive student performance tracking to identify strengths and weaknesses per subject.
+* **🛡️ Secure Infrastructure:** Robust backend architecture ensuring data integrity and preventing unauthorized exam access.
+* **📱 Elite UI/UX:** A premium dark-themed interface designed for maximum focus and minimal eye strain during long study hours.
+
+---
+
 ## 📸 App Showcase (UI/UX)
 <p align="center">
   <table align="center" style="border: none; background: transparent;">
@@ -47,6 +57,15 @@
     </tr>
   </table>
 </p>
+
+---
+
+## 🛠️ Technical Stack | البناء التقني
+
+* **Framework:** Flutter (Dart) - Utilizing Clean Architecture for maintainability.
+* **State Management:** BLoC / Provider (Optimized for real-time streams).
+* **Backend:** Firebase Ecosystem (Cloud Firestore, Auth, Storage).
+* **Performance:** 60 FPS fluid animations and optimized API calls.
 
 ---
 
