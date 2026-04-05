@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screenshot/4.png" width="220" alt="EduRivals Showcase" style="border-radius: 20px; border: 2px solid #eee;">
+  <img src="./screenshot/bg.png" width="120" alt="EduRivals Showcase" style="border-radius: 20px; border: 2px solid #eee;">
 </p>
 
 <h1 align="center">🏆 EDURIVALS | إيدو رايفلز</h1>
@@ -37,7 +37,7 @@
         <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/2.png" width="260" style="border-radius: 15px;">
+        <img src="./screenshot/4.png" width="260" style="border-radius: 15px;">
         <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
