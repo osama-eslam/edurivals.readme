@@ -54,7 +54,8 @@
 
 ## ⚡ Key Highlights / Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="80%">
+  <!-- GIF المقياس / سحباه -->
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=10" width="60%" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.15);">
   <br>
   <b>⏱️ Real-time Stats • 📊 Performance • 👥 Active Users</b>
 </p>
@@ -63,8 +64,8 @@
 
 ## 👤 Developer | المطور
 <p align="center">
-  <!-- GIF المبرمج يعطي vibe حي -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+  <!-- GIF المبرمج صغير وأنيق -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="120" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); float: left; margin-right: 15px;">
 </p>
 
 **Osama Islam (ElDeep)**  
