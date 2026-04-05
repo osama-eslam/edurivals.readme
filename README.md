@@ -37,7 +37,7 @@
         <br><b>Arena Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/2.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
+        <img src="./screenshot/4.png" width="260" style="border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
         <br><b>Subject Progress</b>
       </td>
       <td align="center" style="border: none;">
